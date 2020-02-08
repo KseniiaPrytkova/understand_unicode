@@ -141,7 +141,6 @@ For more bytes, everything happens by analogy. To see our Stigma, download UNICO
 ![see_stigma](img/stigma.png)
 or for 4-bytes symbol:
 ![see_stigma](img/smile.png)
- view code here: [ft_printf/UNICODE_autonomous/](https://github.com/KseniiaPrytkova/ft_printf/tree/master/UNICODE_autonomous)
 
 #### Links
 * [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
